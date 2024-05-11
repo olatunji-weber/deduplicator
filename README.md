@@ -18,4 +18,4 @@ The script prints out a message for each duplicate file it finds and deletes, an
 
 This script deletes files permanently. It's recommended to test this script on a backup or dummy data before using it on important files. Always ensure you have a backup of your data before running any script that modifies or deletes files.
 
-## You will find the Code @ <[Deduplicator Script](https://github.com/olatunji-weber/deduplicator/blob/master/deduplicator.py)>
+## You will find the Code @ [Deduplicator Script](https://github.com/olatunji-weber/deduplicator/blob/master/deduplicator.py)
